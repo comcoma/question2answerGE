@@ -1,4 +1,4 @@
-# question2answerGE
+# question2answerGE - ქართული ენის პაკეტი
 სრული ქართული თარგმანი Q2A ფორუმის პლატფორმისთვის
 http://www.question2answer.org/
 
