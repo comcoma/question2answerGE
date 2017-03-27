@@ -254,7 +254,7 @@ Checked:0%
 		'show_selected_first' => 'ავიდეს შერჩეული პასუხი სულ ზემოთ:',
 		'show_url_links' => 'აჩვენე პოსტებში ბმული როგორც აქტიური ბმული:',
 		'show_user_points' => 'აჩვენე ქულები მომხმარებლის სახელის გასწვრივ:',
-		'show_user_titles' => 'Show titles next to usernames:',
+		'show_user_titles' => 'Show titles next to usernames:', // სათარგმნი
 		'show_view_count_q_page' => 'აჩვენე ნახვების რიცხვი შეკითხვის გვერდზე:',
 		'show_view_counts' => 'აჩვენე ნახვების რიცხვი შეკითხვების სიაში:',
 		'show_when_created' => 'აჩვენე მოხმარებელთა პოსტების დადებიდან გასული დრო:',
